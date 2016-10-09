@@ -1,0 +1,14 @@
+{
+    "name": "limingxinleo/limx-geetest",
+    "description": "This is a geetest sdk",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "limx\\tools\\": "src"
+        }
+    },
+    "require": {
+        "php": ">=5.0.0"
+    }
+}
